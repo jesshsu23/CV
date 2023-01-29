@@ -1,0 +1,15 @@
+body {
+  background-color: #f8f8f8;
+}
+hr {
+  border-style: none;
+  height: 1px;
+  background-color: #e0e0e0;
+}
+
+.myphoto {
+  width: 300px;
+}
+
+a:hover{
+    color: rgb(255, 136, 0);
